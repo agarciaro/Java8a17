@@ -28,6 +28,7 @@ public class StringApiApp {
 		
 //		multiplesLineas.split(null)
 //		multiplesLineas.split("\\R");
+		
 		multiplesLineas.lines().forEach(System.out::println);
 	}
 
