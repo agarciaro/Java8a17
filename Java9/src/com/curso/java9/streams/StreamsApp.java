@@ -18,6 +18,8 @@ public class StreamsApp {
                         .filter(number -> number % 7  == 0)
                         .count();
         System.out.println(result);
+        
+        
 	}
 
 }
