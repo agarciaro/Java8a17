@@ -1,7 +1,6 @@
 package com.curso.java8.streams;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 

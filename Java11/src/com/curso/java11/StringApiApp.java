@@ -30,6 +30,9 @@ public class StringApiApp {
 //		multiplesLineas.split("\\R");
 		
 		multiplesLineas.lines().forEach(System.out::println);
+		
+		
+		
 	}
 
 }

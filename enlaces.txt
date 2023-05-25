@@ -1,0 +1,8 @@
+Garbage Collector elección: https://www.akamas.io/resources/right-app-gc-maximum-performance/
+Garbage Collector tuning: https://www.slideshare.net/SimoneBordet/g1-garbage-collector-details-and-tuning
+Functional Interfaces: https://www.baeldung.com/java-8-functional-interfaces
+JDK Mission Control: https://www.oracle.com/java/technologies/jdk-mission-control.html
+VisualVM: https://visualvm.github.io/download.html
+Java Records con Spring JPA: https://www.baeldung.com/spring-jpa-java-records
+Switch Pattern Matching: https://openjdk.org/jeps/406
+JLink: https://picodotdev.github.io/blog-bitix/2018/03/la-herramienta-jlink-para-generar-runtimes-de-java-incluyendo-exclusivamente-los-modulos-que-usa-una-aplicacion/
